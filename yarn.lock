@@ -2546,7 +2546,7 @@
 
 "ansi-styles@^4.1.0":
   "integrity" "sha512-9VGjrMsG1vePxcSweQsN20KY/c4zN0h9fLjqAbwbPfahM3t+NL+M9HC8xeXG2I8pX5NoamTGNuomEUFI7fcUjA=="
-  "resolved" "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.2.1.tgz"
+  "resolved" "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-4.2.1.tgz"
   "version" "4.2.1"
   dependencies:
     "@types/color-name" "^1.1.1"
@@ -10834,9 +10834,9 @@
     "unicode-match-property-value-ecmascript" "^1.2.0"
 
 "registry-auth-token@^4.0.0":
-  "integrity" "sha512-P+lWzPrsgfN+UEpDS3U8AQKg/UjZX6mQSJueZj3EK+vNESoqBSpBUD3gmu4sF9lOsjXWjF11dQKUqemf3veq1w=="
-  "resolved" "https://registry.npmjs.org/registry-auth-token/-/registry-auth-token-4.2.0.tgz"
-  "version" "4.2.0"
+  "integrity" "sha512-6gkSb4U6aWJB4SF2ZvLb76yCBjcvufXBqvvEx1HbmKPkutswjW1xNVRY0+daljIYRbogN7O0etYSlbiaEQyMyw=="
+  "resolved" "https://registry.npmjs.org/registry-auth-token/-/registry-auth-token-4.2.1.tgz"
+  "version" "4.2.1"
   dependencies:
     "rc" "^1.2.8"
 
@@ -12199,7 +12199,7 @@
 
 "supports-color@^7.1.0":
   "integrity" "sha512-oRSIpR8pxT1Wr2FquTNnGet79b3BWljqOuoW/h4oBhxJ/HUbX5nX6JSruTkvXDCFMwDPvsaTTbvMLKZWSy0R5g=="
-  "resolved" "https://registry.npmjs.org/supports-color/-/supports-color-7.1.0.tgz"
+  "resolved" "https://registry.yarnpkg.com/supports-color/-/supports-color-7.1.0.tgz"
   "version" "7.1.0"
   dependencies:
     "has-flag" "^4.0.0"

@@ -14,6 +14,9 @@ Run the above command to install all the packages
 
 Run the above command so that the Json server serves the api at port 6000. I have created a fake rest api that serves the json file. It runs the json-server and react app concurrently.
 
+if you get sass related error,please enter the following command
+## npm rebuild node-sass
+
 ### Note
 
 As this project needs to be completed in 6hours so I have not done testing. If there was more time duration, then would like to work more on CSS and testing.
