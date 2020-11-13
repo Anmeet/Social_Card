@@ -19,6 +19,6 @@ if you get sass related error,please enter the following command
 
 ### Note
 
-As this project needs to be completed in 6hours so I have not done testing. If there was more time duration, then would like to work more on CSS and testing.
+As this project needs to be completed in 6hours so I have not done testing. If there was more time duration, then I would like to work more on CSS and testing.
 
 Thank you.
