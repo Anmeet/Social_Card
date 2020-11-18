@@ -44,9 +44,8 @@ const CardItem = ({ data }) => {
           {
             <a
               className='link'
-              href={data.website}
-              target='_blank'
-              rel='noopener noreferrer'
+              href={`http://${data.website}`}
+              
             >
               <i
                 style={{ marginLeft: '25px', marginRight: '10px' }}

@@ -33,7 +33,7 @@ const CardDetail = ({ match }) => {
             <div>
               {
                 <a
-                  href={card.website}
+                href={`http://${card.website}`}
                   target='_blank'
                   rel='noopener noreferrer'
                 >
